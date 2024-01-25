@@ -1,7 +1,7 @@
 const test = [
     'Kevin',
     'Jasmine',
-    'Lucy',
     'Dimphy',
+    'Lucy',
     'Billy'
 ]
