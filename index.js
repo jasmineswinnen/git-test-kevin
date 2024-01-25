@@ -1,4 +1,5 @@
 const test = [
     'Kevin',
-    'Jasmine'
+    'Jasmine',
+    'Dimphy'
 ]
